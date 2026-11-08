@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lap3/lap3.vcxproj" />
+  <Project Path="task2/task2.vcxproj" />
+  <Project Path="task3/task3.vcxproj" />
+  <Project Path="task4/task4.vcxproj" />
+  <Project Path="task5/task5.vcxproj" />
+</Solution>
