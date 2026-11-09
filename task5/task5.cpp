@@ -1,6 +1,6 @@
 
 #include <iostream>
-using namespacr std;
+using namespace std;
 int main()
 {
 
@@ -16,7 +16,7 @@ int main()
 	cin >> membership_type;
 	cout << "Enter the monthly purchase for the customer : ";
 	cin >> monthly_purchase;
-	Page | 7
+	
 		switch (membership_type)
 		{
 		case 1:
@@ -41,5 +41,7 @@ int main()
 		break;
 		default:
 			cout << "You entered invalid number for the membership type";
-			rerturn 0;
+		
+		}
+	return 0;
 }

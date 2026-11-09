@@ -7,7 +7,7 @@ int main()
 	
 	cout << "Enter month number(1-12): ";
 	cin >> month;
-	Page | 5
+	
 		switch (month)
 		{
 		case 1:

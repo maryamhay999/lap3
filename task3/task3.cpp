@@ -19,7 +19,7 @@ int main()
 		cout << "even";
 		break;
 
-
+	}
 
 	return 0;
 

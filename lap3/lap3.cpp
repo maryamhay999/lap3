@@ -24,9 +24,12 @@ int main()
 		break;
 	case '/':
 		if (b == 0) { cout << "cannot divide by zero!"; }
-		else { cout << "The result = " << a / b; }
-		break;
+		else {
+			cout << "The result = " << a / b;
+			break;
 	default:
 		cout << "entered wrong input";
+		}
 		return 0;
 	}
+}

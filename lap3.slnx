@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lap3/lap3.vcxproj" Id="0206728b-dc77-4d0c-9976-0847c40f23fd" />
+  <Project Path="task2/task2.vcxproj" Id="10d902f5-ead1-456d-9fed-f60b0018ba90" />
+  <Project Path="task3/task3.vcxproj" Id="5c068ac7-fcbb-4f3b-b561-bcefc018dc97" />
+  <Project Path="task4/task4.vcxproj" Id="6fd86173-40eb-4c38-b452-6857885757e4" />
+  <Project Path="task5/task5.vcxproj" Id="bf66e900-3de9-4bc5-8b78-95df2198c5bd" />
+</Solution>
